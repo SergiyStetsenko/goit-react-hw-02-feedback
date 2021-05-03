@@ -1,0 +1,41 @@
+.title {
+  color: green;
+  width: 224px;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0px 8px 30px rgba(212, 20, 67, 0.1);
+}
+body {
+  text-align: center;
+}
+.section {
+  padding: 20px;
+}
+
+.click {
+  margin-top: 30px;
+}
+.good {
+  background: beige;
+  border: 1px solid rgb(63, 150, 36);
+  border-radius: 10px;
+  padding: 5px 10px;
+  color: darkolivegreen;
+  margin-right: 20px;
+}
+
+.neutral {
+  background: beige;
+  border: 1px solid rgb(172, 179, 180);
+  border-radius: 10px;
+  padding: 5px 10px;
+  color: darkolivegreen;
+  margin-right: 20px;
+}
+.bad {
+  background: beige;
+  border: 1px solid rgb(196, 21, 64);
+  border-radius: 10px;
+  padding: 5px 10px;
+  color: darkolivegreen;
+}
